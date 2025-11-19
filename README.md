@@ -15,9 +15,7 @@ Noctura is a modern, elegant, and fast digital agency website built to showcase 
 [![Noctura Demo](https://img.youtube.com/vi/f75FS1GyneY/maxresdefault.jpg)](https://youtu.be/f75FS1GyneY)
 
 
-```
-[Video Demo Coming Soon]
-```
+
 
 ---
 
