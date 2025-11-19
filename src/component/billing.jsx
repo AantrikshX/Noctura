@@ -28,7 +28,7 @@ const Billing = () => {
     setLoading(true);
 
     try {
-      const response = await fetch("http://us.xibots.store:13002/api/leads", {
+      const response = await fetch("/api/leads", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(formData),

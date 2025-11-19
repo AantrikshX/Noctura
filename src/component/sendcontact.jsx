@@ -13,7 +13,7 @@ const SendContact = () => {
     }
 
     try {
-      const response = await fetch("http://us.xibots.store:13002/api/emails", {
+      const response = await fetch("/api/emails", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ email }),
