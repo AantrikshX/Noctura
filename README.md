@@ -1,16 +1,76 @@
-# React + Vite
+# 🌙 Noctura — Digital Agency Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Noctura is a modern, elegant, and fast digital agency website built to showcase services, style, and selected portfolio projects. Designed with a night-inspired aesthetic, smooth UI animations, glassmorphism, and a premium user experience, Noctura reflects the essence of creative excellence.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔗 Live Demo
+👉 https://your-live-demo-link.com  
+*(Replace with your actual link)*
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🎥 Video Demo
+Add your video here (GIF / MP4 / YouTube Link):
 
-## Expanding the ESLint configuration
+```
+[Video Demo Coming Soon]
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+- React.js  
+- Vite  
+- TailwindCSS  
+- Custom CSS (Glassmorphism, Animations)
+
+**UI Enhancements**
+- Locomotive Scroll  
+- Infinite Auto-Scroll Carousel  
+- Fade-in Animations  
+- Google Fonts (Poppins, Inter)
+
+---
+
+## ✨ Features
+
+### 🌙 Modern Agency Design
+A sleek, premium layout with a minimal, night-inspired aesthetic designed to make your brand stand out.
+
+### 🖼️ Glassmorphic Project Cards
+Each project is displayed in a frosted-glass container with:
+- Title  
+- Thumbnail  
+- Description  
+- One-click redirect to the live site  
+
+### 🎞️ Infinite Auto-Scrolling Carousel
+Projects glide smoothly across the screen using:
+- Pure CSS animation  
+- Right-to-left looping motion  
+- Pause on hover  
+- Fade-in effects  
+
+### 🌀 Locomotive Scroll Integration
+Smooth, high-performance scrolling with:
+- Momentum-based movement  
+- Scroll-triggered animations  
+- Section-based transition control  
+- Perfect for premium websites  
+
+---
+
+## 🚀 Future Enhancements
+- Add animations to Hero section  
+- Add dark mode switch  
+- Add admin panel for project management  
+- Add contact form with backend integration  
+
+---
+
+## 🧑‍💻 Author
+**Noctura — Digital Agency Website**  
+Crafted with precision, creativity, and attention to detail.
