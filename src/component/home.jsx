@@ -9,6 +9,7 @@ import Shop from "./shop"
 import Billing from "./billing"
 import About from './about';
 import Work from "./work"
+import Maybach from "./Maybach";
 
 const Home = () => {
   const containerRef = useRef(null)
@@ -52,6 +53,7 @@ const Home = () => {
         <Route path='/billing' element={<Billing/>}/>
         <Route path='/about' element={<About/>}/>
         <Route path='/ourwork' element={<Work/>}/>
+        <Route path="/maybach" element={<Maybach />} />
         </Routes>
         <Home21/>
       </div>
