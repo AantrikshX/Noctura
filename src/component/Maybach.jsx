@@ -259,7 +259,7 @@ export default function Maybach() {
                     srcDoc={selectedMsg.html[0] || selectedMsg.html}
                     style={{ width: "100%", minHeight: 300, border: "none", borderRadius: 8 }}
                     title="Email content"
-                    sandbox="allow-same-origin"
+                    sandbox="allow-same-origin allow-popups allow-popups-to-escape-sandbox"
                   />
                 ) : (
                   <pre style={{ fontSize: 13, color: "#444", whiteSpace: "pre-wrap", lineHeight: 1.6, margin: 0 }}>
